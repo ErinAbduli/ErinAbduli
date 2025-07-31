@@ -20,7 +20,6 @@ Developer Tools:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinAbduli&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![ErinAbduli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinAbduli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
