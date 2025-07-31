@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/erin.abdulli) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23FF0069.svg?logo=instagram&logoColor=white)](https://instagram.com/erin.abdulli) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erin-abduli) 
 
 # 💻 Tech Stack:
