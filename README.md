@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Erin Abduli</h1>
 
-👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>👦 Self-Taught started programming when I was 15 years old. I am studying Computer Science & Engineering!<br>🎨 Making stuff happen with Computers, tech, and sports<br>💭 Currently learning React then diving into more back-end stuff<br>
+👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>👦 Self-Taught started programming when I was 15 years old. I am studying Computer Science & Engineering!<br>🎨 Making stuff happen with Computers, tech, and sports<br>💭 Currently learning Java<br>
 
 
 ## 🌐 Socials:
